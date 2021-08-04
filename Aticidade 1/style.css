@@ -1,0 +1,10 @@
+body{
+    margin: 0 auto;
+    width: 60%;
+    display: flex;
+    align-items: center;
+    background: black;
+    color: aliceblue;
+    margin-top: 9%;
+
+}
